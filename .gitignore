@@ -1,0 +1,19 @@
+# C/C++ compiled executables
+*.exe
+*.out
+*.o
+*.exe~
+
+# Java compiled files
+*.class
+*.jar
+
+# Python compiled files (if you use it later)
+__pycache__/
+*.pyc
+
+# IDE and OS specific hidden files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
